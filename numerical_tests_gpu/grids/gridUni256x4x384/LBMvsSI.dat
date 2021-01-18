@@ -1,0 +1,10 @@
+1.5 1.5 1.5 256.5 4.5 384.5
+
+from LBM to SI
+scale     0.0078125 0.0078125 0.0078125
+translate -1.00781 -0.0234375 -1.50781
+
+from SI to LBM
+scale     128 128 128
+translate 129 3 193
+
