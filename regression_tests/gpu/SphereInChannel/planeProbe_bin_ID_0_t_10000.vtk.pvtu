@@ -1,0 +1,14 @@
+<VTKFile type="PUnstructuredGrid" version="0.1" byte_order="LittleEndian">
+  <PUnstructuredGrid GhostLevel="0">
+    <PPoints>
+      <PDataArray type="Float32" NumberOfComponents="3"/>
+    </PPoints>
+    <PPointData>
+      <PDataArray type="Float32" Name="vx_mean"/>
+      <PDataArray type="Float32" Name="vy_mean"/>
+      <PDataArray type="Float32" Name="vz_mean"/>
+      <PDataArray type="Float32" Name="rho_mean"/>
+    </PPointData>
+    <Piece Source="planeProbe_bin_lev_0_ID_0_Part_1_t_10000.vtk.bin.vtu"/>
+  </PUnstructuredGrid>
+</VTKFile>
