@@ -1,0 +1,6 @@
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian" >
+   <Collection>
+       <DataSet timestep="0" group="0" part="0" file="Sphere01_bin_lev_0_ID_0_Part_1_t_0.vtk.bin.vtu"/>
+       <DataSet timestep="10000" group="0" part="0" file="Sphere01_bin_lev_0_ID_0_Part_1_t_10000.vtk.bin.vtu"/>
+   </Collection>
+</VTKFile>
