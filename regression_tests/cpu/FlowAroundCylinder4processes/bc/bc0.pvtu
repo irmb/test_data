@@ -1,0 +1,16 @@
+<VTKFile type="PUnstructuredGrid" version="0.1" byte_order="LittleEndian">
+  <PUnstructuredGrid GhostLevel="0">
+    <PPoints>
+      <PDataArray type="Float32" NumberOfComponents="3"/>
+    </PPoints>
+    <PPointData>
+      <PDataArray type="Float64" Name="Boundary Conditions"/>
+      <PDataArray type="Float64" Name="Geometry"/>
+      <PDataArray type="Float64" Name="Level"/>
+    </PPointData>
+    <Piece Source="bc0/bc0_0.bin.vtu"/>
+    <Piece Source="bc0/bc1_0.bin.vtu"/>
+    <Piece Source="bc0/bc2_0.bin.vtu"/>
+    <Piece Source="bc0/bc3_0.bin.vtu"/>
+  </PUnstructuredGrid>
+</VTKFile>
