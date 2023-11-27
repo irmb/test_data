@@ -1,6 +1,6 @@
 <VTKFile type="UnstructuredGrid" version="0.1" byte_order="LittleEndian" >
    <UnstructuredGrid>
-      <Piece NumberOfPoints="8"	NumberOfCells="12">   
+      <Piece NumberOfPoints="8"    NumberOfCells="12">   
       <Points>
          <DataArray type="Float32" NumberOfComponents="3" format="ascii">
 2.5 -0.25 -0.25   2.75 -0.25 -0.25   2.75 0.66 -0.25   2.5 0.66 -0.25   2.5 -0.25 0.66   2.75 -0.25 0.66   2.75 0.66 0.66   2.5 0.66 0.66   
