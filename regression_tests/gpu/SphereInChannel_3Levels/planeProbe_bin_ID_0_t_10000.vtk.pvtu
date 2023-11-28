@@ -2,16 +2,14 @@
 <VTKFile type="PUnstructuredGrid" version="0.1" byte_order="LittleEndian">
   <PUnstructuredGrid GhostLevel="1">
     <PPointData>
-      <PDataArray type="Float64" Name="vx_mean"/>
-      <PDataArray type="Float64" Name="vy_mean"/>
-      <PDataArray type="Float64" Name="vz_mean"/>
-      <PDataArray type="Float64" Name="rho_mean"/>
+      <PDataArray type="Float64" Name="vx"/>
+      <PDataArray type="Float64" Name="vy"/>
+      <PDataArray type="Float64" Name="vz"/>
+      <PDataArray type="Float64" Name="rho"/>
     </PPointData>
     <PPoints>
       <PDataArray type="Float32" NumberOfComponents="3"/>
     </PPoints>
-    <Piece Source="planeProbe_bin_lev_1_ID_0_Part_1_t_10000.vtk.bin.vtu"/>
-    <Piece Source="planeProbe_bin_lev_2_ID_0_Part_1_t_10000.vtk.bin.vtu"/>
     <Piece Source="planeProbe_bin_lev_0_ID_0_Part_1_t_10000.vtk.bin.vtu"/>
   </PUnstructuredGrid>
 </VTKFile>
