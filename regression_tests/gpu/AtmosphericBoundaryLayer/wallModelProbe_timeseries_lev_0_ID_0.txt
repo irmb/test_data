@@ -1,0 +1,7 @@
+TimeseriesOutput 
+Quantities: vx_el_spatMean, vy_el_spatMean, vz_el_spatMean, vx1_spatMean, vy1_spatMean, vz1_spatMean, u_star_spatMean, Fx_spatMean, Fy_spatMean, Fz_spatMean, vx_el_spatTmpMean, vy_el_spatTmpMean, vz_el_spatTmpMean, vx1_spatTmpMean, vy1_spatTmpMean, vz1_spatTmpMean, u_star_spatTmpMean, Fx_spatTmpMean, Fy_spatTmpMean, Fz_spatTmpMean, 
+Number of points in this file: 
+1
+Positions: x, y, z
+0, 0, 0
+ã˛‡E-"√@í–∫í–∫c€,@ø˘:≠‰6—ﬁÃ>®M,>$Gôπéñ◊º-"√@í–∫í–∫c€,@ø˘:≠‰6—ﬁÃ>®M,>$Gôπéñ◊ºÁ≠ÂEı$√@¨∫¨∫¯_.@KÛ;:ÓÜ7´·Ã>:->∞PÚπçzΩí#√@Sæ∫Sæ∫≠ù-@T‹´:∫Ó7>‡Ã>Ò™,>ÍÀ≈π',3ΩC]ÍEº$√@ëû"∫ëû"∫Åê/@_G;M(E7s·Ã>…M,>_‚∏b´Ωˆ#√@h^∫h^∫ÙC.@ÕQ˜:Î7¶‡Ã>‰ã,>á∫ñπ¥iΩ†ÔE:&√@“3∫“3∫’I0@§<«;y7¯‚Ã>`ƒ*>î¯39_{tæÜ$√@P˚∫P˚∫m≈.@ˇ\@;œD7:·Ã>,>•5π;·—Ω
