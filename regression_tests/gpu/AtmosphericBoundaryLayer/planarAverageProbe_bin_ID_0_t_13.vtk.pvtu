@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<VTKFile type="PUnstructuredGrid" version="0.1" byte_order="LittleEndian">
+  <PUnstructuredGrid GhostLevel="1">
+    <PPointData>
+      <PDataArray type="Float64" Name="vx_spatialMean"/>
+      <PDataArray type="Float64" Name="vy_spatialMean"/>
+      <PDataArray type="Float64" Name="vz_spatialMean"/>
+      <PDataArray type="Float64" Name="EddyViscosity_spatialMean"/>
+      <PDataArray type="Float64" Name="vx_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="vy_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="vz_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="EddyViscosity_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="vxvx_spatialMean"/>
+      <PDataArray type="Float64" Name="vyvy_spatialMean"/>
+      <PDataArray type="Float64" Name="vzvz_spatialMean"/>
+      <PDataArray type="Float64" Name="vxvy_spatialMean"/>
+      <PDataArray type="Float64" Name="vxvz_spatialMean"/>
+      <PDataArray type="Float64" Name="vyvz_spatialMean"/>
+      <PDataArray type="Float64" Name="vxvx_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="vyvy_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="vzvz_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="vxvy_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="vxvz_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="vyvz_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="SkewnessX_spatialMean"/>
+      <PDataArray type="Float64" Name="SkewnessY_spatialMean"/>
+      <PDataArray type="Float64" Name="SkewnessZ_spatialMean"/>
+      <PDataArray type="Float64" Name="SkewnessX_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="SkewnessY_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="SkewnessZ_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="FlatnessX_spatialMean"/>
+      <PDataArray type="Float64" Name="FlatnessY_spatialMean"/>
+      <PDataArray type="Float64" Name="FlatnessZ_spatialMean"/>
+      <PDataArray type="Float64" Name="FlatnessX_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="FlatnessY_spatioTemporalMean"/>
+      <PDataArray type="Float64" Name="FlatnessZ_spatioTemporalMean"/>
+    </PPointData>
+    <PPoints>
+      <PDataArray type="Float32" NumberOfComponents="3"/>
+    </PPoints>
+    <Piece Source="planarAverageProbe_bin_lev_0_ID_0_Part_1_t_13.vtk.bin.vtu"/>
+  </PUnstructuredGrid>
+</VTKFile>
