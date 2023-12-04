@@ -9,5 +9,12 @@
       <PDataArray type="Float64" Name="Level"/>
     </PPointData>
     <Piece Source="bc0/bc0_0.bin.vtu"/>
+    <Piece Source="bc0/bc1_0.bin.vtu"/>
+    <Piece Source="bc0/bc2_0.bin.vtu"/>
+    <Piece Source="bc0/bc3_0.bin.vtu"/>
+    <Piece Source="bc0/bc4_0.bin.vtu"/>
+    <Piece Source="bc0/bc5_0.bin.vtu"/>
+    <Piece Source="bc0/bc6_0.bin.vtu"/>
+    <Piece Source="bc0/bc7_0.bin.vtu"/>
   </PUnstructuredGrid>
 </VTKFile>
