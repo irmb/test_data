@@ -1,0 +1,5 @@
+<VTKFile type="Collection" version="0.1" byte_order="LittleEndian" >
+   <Collection>
+       <DataSet timestep="0" group="0" part="0" file="./output/LidDrivenCavity/blocks/blocks_0_0.bin.vtu"/>
+   </Collection>
+</VTKFile>
